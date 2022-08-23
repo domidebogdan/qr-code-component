@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qrcode-card-component-rTHcNTMch9)
-- Live Site URL: [Add live site URL here](https://dbd-qr.netlify.app)
+- Solution URL: [frontendmentor.io dbd-qr-solution](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qrcode-card-component-rTHcNTMch9)
+- Live Site URL: [dbd-qr.netlify.app](https://dbd-qr.netlify.app)
 
 ## My process
 
